@@ -1,0 +1,1 @@
+If your using windows put ffmpeg.exe, ffplay.exe, and ffprobe.exe in here.
